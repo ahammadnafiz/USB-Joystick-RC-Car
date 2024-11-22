@@ -2,7 +2,7 @@
 
 A DIY RC car project that uses a USB joystick to control a four-wheeled vehicle via ESP32 microcontrollers and ESP-NOW wireless communication.
 
-![Hero](Assets\Hero.png)
+![Hero](Assets/Hero.png)
 
 ## 🚗 Features
 
